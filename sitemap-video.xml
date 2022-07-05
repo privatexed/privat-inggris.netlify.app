@@ -1,11 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- Created by (Accrue http://www.accruemarketing.com/) -->
-<!-- Generated-on="June 24, 2022, 7:35 am" -->
+<!-- Generated-on="July 5, 2022, 7:50 am" -->
 <?xml-stylesheet type="text/xsl" href="https://privat-inggris.netlify.app/video-sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-jakarta-barat.html</loc>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-sawah-besar.html</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Sawah Besar</video:title>
+  <video:description>Kursus Bahasa Inggris Sawah Besar</video:description>
+  <video:publication_date>2022-07-03T22:56:45+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-cakung.html</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Cakung</video:title>
+  <video:description>Kursus Bahasa Inggris Cakung</video:description>
+  <video:publication_date>2022-07-03T15:02:43+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-tanjung-priok.html</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Tanjung Priok</video:title>
+  <video:description>Kursus Bahasa Inggris Tanjung Priok</video:description>
+  <video:publication_date>2022-07-03T08:13:17+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-kramat-jati.html</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Kramat Jati</video:title>
+  <video:description>Kursus Bahasa Inggris Kramat Jati</video:description>
+  <video:publication_date>2022-06-29T06:25:06+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-pasar-rebo.html</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Pasar Rebo</video:title>
+  <video:description>Kursus Bahasa Inggris Pasar Rebo</video:description>
+  <video:publication_date>2022-06-28T07:05:04+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-tanah-abang.html</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Tanah Abang</video:title>
+  <video:description>Kursus Bahasa Inggris Tanah Abang</video:description>
+  <video:publication_date>2022-06-25T23:42:08+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-jakarta-barat.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -15,7 +75,47 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-kebayoran-lama.html</loc>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-matraman.html</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Matraman</video:title>
+  <video:description>Kursus Bahasa Inggris Matraman</video:description>
+  <video:publication_date>2022-06-21T20:03:32+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2201</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Makasar • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Makasar • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-21T18:35:12+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2103</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Cipete • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Cipete • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-21T18:04:49+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2194</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Koja • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Koja • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-21T17:55:51+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-kebayoran-lama.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -25,7 +125,27 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-cipayung.html</loc>
+ <loc>https://privat-inggris.netlify.app/?p=2207</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Grogol Petamburan • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Grogol Petamburan • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-20T20:40:34+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2096</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Cipayung • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Cipayung • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-20T09:19:37+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-cipayung.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -35,7 +155,17 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-bekasi.html</loc>
+ <loc>https://privat-inggris.netlify.app/?p=2092</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Tebet • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Tebet • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-20T03:37:50+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-bekasi.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -45,7 +175,47 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-bangka.html</loc>
+ <loc>https://privat-inggris.netlify.app/?p=2205</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Pesanggrahan • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Pesanggrahan • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-19T00:44:35+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2202</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Matraman • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Matraman • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-18T23:51:51+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2095</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Duren Sawit • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Duren Sawit • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-18T14:44:54+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2187</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Gambir • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Gambir • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-18T12:00:53+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-bangka.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -55,7 +225,57 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-tangerang.html</loc>
+ <loc>https://privat-inggris.netlify.app/?p=2195</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Pademangan • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Pademangan • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-16T20:31:59+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2101</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Kemang • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Kemang • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-16T18:10:27+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2102</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Bangka • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Bangka • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-16T14:04:23+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2197</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Tanjung Priok • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Tanjung Priok • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-16T13:07:02+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2199</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Jatinegara • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Jatinegara • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-16T09:36:14+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-tangerang.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -65,7 +285,7 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-cilandak.html</loc>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-cilandak.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -75,7 +295,7 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-duren-sawit.html</loc>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-duren-sawit.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -85,7 +305,17 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-kemang.html</loc>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-kemayoran.html</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Kemayoran</video:title>
+  <video:description>Kursus Bahasa Inggris Kemayoran</video:description>
+  <video:publication_date>2022-06-15T06:56:17+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-kemang.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -95,7 +325,7 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-tangerang-selatan.html</loc>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-tangerang-selatan.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -105,7 +335,7 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-gading-serpong.html</loc>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-gading-serpong.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -115,7 +345,27 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-kelapa-gading.html</loc>
+ <loc>https://privat-inggris.netlify.app/?p=2097</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Palmerah • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Palmerah • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-14T00:07:31+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2082</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Menteng • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Menteng • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-13T22:50:23+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-kelapa-gading.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -125,7 +375,47 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-kebon-jeruk.html</loc>
+ <loc>https://privat-inggris.netlify.app/?p=2074</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Jakarta Utara • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Jakarta Utara • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-10T01:18:00+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2192</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Tanah Abang • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Tanah Abang • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-09T23:42:44+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2198</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Cakung • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Cakung • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-08T23:09:44+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-cengkareng.html</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Cengkareng</video:title>
+  <video:description>Kursus Bahasa Inggris Cengkareng</video:description>
+  <video:publication_date>2022-06-08T22:23:38+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-kebon-jeruk.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -135,7 +425,7 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-pancoran.html</loc>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-pancoran.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -145,7 +435,7 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-cipete.html</loc>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-cipete.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -155,7 +445,107 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-kembangan.html</loc>
+ <loc>https://privat-inggris.netlify.app/?p=2210</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Kalideres • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Kalideres • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-08T05:54:46+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2089</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Pancoran • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Pancoran • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-08T03:46:35+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2100</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Gading Serpong • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Gading Serpong • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-06T20:16:12+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2094</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Ciracas • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Ciracas • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-05T11:22:20+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2086</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Kebayoran Baru • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Kebayoran Baru • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-04T08:45:09+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2076</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Bogor • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Bogor • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-04T03:56:54+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-grogol-petamburan.html</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Grogol Petamburan</video:title>
+  <video:description>Kursus Bahasa Inggris Grogol Petamburan</video:description>
+  <video:publication_date>2022-06-03T22:17:51+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2193</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Cilincing • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Cilincing • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-03T13:19:58+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2099</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Kembangan • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Kembangan • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-03T00:25:05+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2090</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Pasar Minggu • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Pasar Minggu • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-02T22:54:58+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-kembangan.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -165,7 +555,7 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-mampang.html</loc>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-mampang.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -175,7 +565,47 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-cempaka-putih.html</loc>
+ <loc>https://privat-inggris.netlify.app/?p=2093</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Kelapa Gading • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Kelapa Gading • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-01T23:43:32+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2206</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Cengkareng • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Cengkareng • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-01T16:50:36+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2209</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Tambora • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Tambora • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-01T11:00:53+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2084</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Cilandak • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Cilandak • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-01T09:24:20+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-cempaka-putih.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -185,7 +615,27 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-jakarta-timur.html</loc>
+ <loc>https://privat-inggris.netlify.app/?p=2077</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Depok • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Depok • Executive-Education.id</video:description>
+  <video:publication_date>2022-06-01T04:17:38+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2078</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Tangerang • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Tangerang • Executive-Education.id</video:description>
+  <video:publication_date>2022-05-31T18:27:55+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-jakarta-timur.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -195,7 +645,17 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-jagakarsa.html</loc>
+ <loc>https://privat-inggris.netlify.app/?p=2190</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Sawah Besar • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Sawah Besar • Executive-Education.id</video:description>
+  <video:publication_date>2022-05-30T12:33:58+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-jagakarsa.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -205,7 +665,37 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-pejaten.html</loc>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-gambir.html</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Gambir</video:title>
+  <video:description>Kursus Bahasa Inggris Gambir</video:description>
+  <video:publication_date>2022-05-26T13:17:45+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2083</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Cempaka Putih • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Cempaka Putih • Executive-Education.id</video:description>
+  <video:publication_date>2022-05-26T07:42:37+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2091</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Setiabudi • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Setiabudi • Executive-Education.id</video:description>
+  <video:publication_date>2022-05-25T17:32:28+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-pejaten.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -215,7 +705,17 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-jakarta-pusat.html</loc>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-penjaringan.html</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Penjaringan</video:title>
+  <video:description>Kursus Bahasa Inggris Penjaringan</video:description>
+  <video:publication_date>2022-05-25T07:19:18+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-jakarta-pusat.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -225,7 +725,17 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-kebayoran-baru.html</loc>
+ <loc>https://privat-inggris.netlify.app/?p=2204</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Pulo Gadung • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Pulo Gadung • Executive-Education.id</video:description>
+  <video:publication_date>2022-05-23T20:20:35+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-kebayoran-baru.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -235,7 +745,27 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-menteng.html</loc>
+ <loc>https://privat-inggris.netlify.app/?p=2191</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Senen • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Senen • Executive-Education.id</video:description>
+  <video:publication_date>2022-05-22T19:34:37+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-pulo-gadung.html</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Pulo Gadung</video:title>
+  <video:description>Kursus Bahasa Inggris Pulo Gadung</video:description>
+  <video:publication_date>2022-05-22T08:21:57+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-menteng.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -245,7 +775,7 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-bsd-city.html</loc>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-bsd-city.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -255,7 +785,127 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-jakarta-selatan.html</loc>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-pademangan.html</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Pademangan</video:title>
+  <video:description>Kursus Bahasa Inggris Pademangan</video:description>
+  <video:publication_date>2022-05-20T15:19:32+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2189</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Kemayoran • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Kemayoran • Executive-Education.id</video:description>
+  <video:publication_date>2022-05-20T12:47:10+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2079</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Tangerang Selatan • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Tangerang Selatan • Executive-Education.id</video:description>
+  <video:publication_date>2022-05-19T23:05:21+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2088</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Mampang • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Mampang • Executive-Education.id</video:description>
+  <video:publication_date>2022-05-19T14:21:23+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-pesanggrahan.html</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Pesanggrahan</video:title>
+  <video:description>Kursus Bahasa Inggris Pesanggrahan</video:description>
+  <video:publication_date>2022-05-19T09:22:32+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2208</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Taman Sari • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Taman Sari • Executive-Education.id</video:description>
+  <video:publication_date>2022-05-18T16:55:18+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2080</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris BSD City • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris BSD City • Executive-Education.id</video:description>
+  <video:publication_date>2022-05-18T11:51:33+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-taman-sari.html</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Taman Sari</video:title>
+  <video:description>Kursus Bahasa Inggris Taman Sari</video:description>
+  <video:publication_date>2022-05-18T02:15:35+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2203</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Pasar Rebo • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Pasar Rebo • Executive-Education.id</video:description>
+  <video:publication_date>2022-05-17T20:04:20+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2200</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Kramat Jati • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Kramat Jati • Executive-Education.id</video:description>
+  <video:publication_date>2022-05-17T08:12:22+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2072</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Jakarta Selatan • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Jakarta Selatan • Executive-Education.id</video:description>
+  <video:publication_date>2022-05-16T21:24:16+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2085</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Jagakarsa • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Jagakarsa • Executive-Education.id</video:description>
+  <video:publication_date>2022-05-16T19:44:16+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-jakarta-selatan.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -265,7 +915,27 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-tebet.html</loc>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-jatinegara.html</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Jatinegara</video:title>
+  <video:description>Kursus Bahasa Inggris Jatinegara</video:description>
+  <video:publication_date>2022-05-15T15:09:37+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2073</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Jakarta Timur • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Jakarta Timur • Executive-Education.id</video:description>
+  <video:publication_date>2022-05-14T20:00:21+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-tebet.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -275,7 +945,7 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-alam-sutera.html</loc>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-alam-sutera.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -285,7 +955,7 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-online.html</loc>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-online.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -295,7 +965,7 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-jakarta-utara.html</loc>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-jakarta-utara.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -305,7 +975,47 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-depok.html</loc>
+ <loc>https://privat-inggris.netlify.app/?p=2081</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Alam Sutera • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Alam Sutera • Executive-Education.id</video:description>
+  <video:publication_date>2022-05-13T10:10:01+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2104</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Pejaten • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Pejaten • Executive-Education.id</video:description>
+  <video:publication_date>2022-05-12T23:25:15+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-koja.html</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Koja</video:title>
+  <video:description>Kursus Bahasa Inggris Koja</video:description>
+  <video:publication_date>2022-05-12T19:59:10+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-cilincing.html</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Cilincing</video:title>
+  <video:description>Kursus Bahasa Inggris Cilincing</video:description>
+  <video:publication_date>2022-05-12T13:15:00+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-depok.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -315,7 +1025,7 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-bogor.html</loc>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-bogor.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -325,7 +1035,47 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-pasar-minggu.html</loc>
+ <loc>https://privat-inggris.netlify.app/?p=2098</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Kebon Jeruk • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Kebon Jeruk • Executive-Education.id</video:description>
+  <video:publication_date>2022-05-12T07:10:54+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-kalideres.html</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Kalideres</video:title>
+  <video:description>Kursus Bahasa Inggris Kalideres</video:description>
+  <video:publication_date>2022-05-11T16:49:09+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-johar-baru.html</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Johar Baru</video:title>
+  <video:description>Kursus Bahasa Inggris Johar Baru</video:description>
+  <video:publication_date>2022-05-11T14:38:45+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-tambora.html</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Tambora</video:title>
+  <video:description>Kursus Bahasa Inggris Tambora</video:description>
+  <video:publication_date>2022-05-10T21:15:09+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-pasar-minggu.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -335,7 +1085,67 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-setiabudi.html</loc>
+ <loc>https://privat-inggris.netlify.app/?p=2105</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Online • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Online • Executive-Education.id</video:description>
+  <video:publication_date>2022-05-10T04:29:30+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-senen.html</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Senen</video:title>
+  <video:description>Kursus Bahasa Inggris Senen</video:description>
+  <video:publication_date>2022-05-10T03:30:42+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-makasar.html</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Makasar</video:title>
+  <video:description>Kursus Bahasa Inggris Makasar</video:description>
+  <video:publication_date>2022-05-10T01:03:10+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2087</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Kebayoran Lama • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Kebayoran Lama • Executive-Education.id</video:description>
+  <video:publication_date>2022-05-09T08:45:16+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2188</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Johar Baru • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Johar Baru • Executive-Education.id</video:description>
+  <video:publication_date>2022-05-09T08:15:30+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2071</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Jakarta Pusat • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Jakarta Pusat • Executive-Education.id</video:description>
+  <video:publication_date>2022-05-09T04:04:38+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-setiabudi.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -345,7 +1155,17 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-palmerah.html</loc>
+ <loc>https://privat-inggris.netlify.app/?p=2070</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Jakarta Barat • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Jakarta Barat • Executive-Education.id</video:description>
+  <video:publication_date>2022-05-08T01:38:43+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-palmerah.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
@@ -355,13 +1175,33 @@
  </video:video>
  </url>
  <url>
- <loc>http://sandbox.executive-education.id/kursus-bahasa-inggris-ciracas.html</loc>
+ <loc>https://privat-inggris.netlify.app/kursus-bahasa-inggris-ciracas.html</loc>
  <video:video>
   <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
   <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
   <video:title>Kursus Bahasa Inggris Ciracas</video:title>
   <video:description>Kursus Bahasa Inggris Ciracas</video:description>
   <video:publication_date>2022-05-06T21:17:37+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2075</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Bekasi • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Bekasi • Executive-Education.id</video:description>
+  <video:publication_date>2022-05-06T10:29:41+00:00</video:publication_date>
+ </video:video>
+ </url>
+ <url>
+ <loc>https://privat-inggris.netlify.app/?p=2196</loc>
+ <video:video>
+  <video:player_loc allow_embed="yes" autoplay="autoplay=1">http://www.youtube.com/v/YHDpRZkvHIw</video:player_loc>
+  <video:thumbnail_loc>http://i.ytimg.com/vi/YHDpRZkvHIw/hqdefault.jpg</video:thumbnail_loc>
+  <video:title>Kursus Bahasa Inggris Penjaringan • Executive-Education.id</video:title>
+  <video:description>Kursus Bahasa Inggris Penjaringan • Executive-Education.id</video:description>
+  <video:publication_date>2022-05-06T01:06:32+00:00</video:publication_date>
  </video:video>
  </url>
 </urlset>
